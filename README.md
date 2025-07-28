@@ -25,3 +25,8 @@
 ├─ .env.example # 範例（提交）
 ├─ .gitignore
 └─ package.json
+## 測試步驟（驗收用）
+
+1. 安裝
+   ```bash
+   npm install
